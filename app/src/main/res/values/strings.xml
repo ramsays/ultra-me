@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ultra.me</string>
+    <string name="title_account">Account</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="last_updated">Last updated:</string>
+    <string name="balance_international">International Credit</string>
+    <string name="balance_wallet">Ultra Wallet</string>
+    <string name="balance_roaming">Roaming Credit</string>
+
+    <!-- Account -->
+    <string name="account_talk_text">Unlimited talk and text</string>
+    <string name="account_reload_title">Reload airtime</string>
+    <string name="account_reload_placeholder">Recharge PIN</string>
+    <string name="account_reload_button">Reload</string>
+
+    <!-- Notifications -->
+    <string name="channel_main_name">Ultra messages</string>
+    <string name="channel_main_desc">Alert messages from 6700</string>
+    <string name="channel_data_name">Data usage alerts</string>
+    <string name="channel_data_desc">Notifications about data usage. Set thresholds in settings.</string>
+
+    <!-- Widgets -->
+    <string name="widget_data_title">Data usage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
